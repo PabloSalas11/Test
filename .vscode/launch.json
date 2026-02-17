@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/pablo/Desktop/Test/AC/1_2",
-      "program": "c:/Users/pablo/Desktop/Test/AC/1_2/build/Debug/outDebug",
+      "cwd": "c:/Users/pablo/Desktop/Test/AC/Tema1_completo",
+      "program": "c:/Users/pablo/Desktop/Test/AC/Tema1_completo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
